@@ -1,10 +1,6 @@
 
 # Prova Finale di Algoritmi e Principi dell'Informatica - A.A. 2022-2023
 
-**License:** GPL v2
-
-**CMake** su piattaforma singola
-
 Progetto finale per il corso di Algoritmi e Principi dell'Informatica dell'anno accademico 2022-2023.
 
 **Docente:** Davide Martineghi
