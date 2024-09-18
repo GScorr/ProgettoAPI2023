@@ -5,9 +5,7 @@ Progetto finale per il corso di Algoritmi e Principi dell'Informatica dell'anno 
 
 **Docente:** Davide Martineghi
 
-**Valutazione:** 30 e lode
-
-# Progetto Finale - Algoritmi e Strutture Dati A.A. 2022-2023
+**Valutazione Finale:** 30 e lode
 
 ## Obiettivi del Progetto
 
@@ -34,4 +32,4 @@ Il programma non solo deve restituire risultati corretti, ma deve rispettare rig
 | 24          | 108 MiB | 10 s   | ✅    |
 | 27          | 98 MiB  | 6 s    | ✅    |
 | 30          | 88 MiB  | 4 s    | ✅    |
-| 30L         | 78 MiB  | 1 s    | ✅    |
+| 30 e lode   | 78 MiB  | 1 s    | ✅    |
